@@ -1,4 +1,4 @@
-module github.com/libp2p/go-utp-transport
+module github.com/Jorropo/go-utp-transport
 
 go 1.13
 
